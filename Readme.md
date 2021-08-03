@@ -14,7 +14,7 @@ The abbreviation MERN stands for MongoDB-Express. js-React-Node. js, and you can
 
 *Node.js
 
-*MongoDB
+*Mongo DB
 
 *React-Router-Dom
 
